@@ -2,29 +2,35 @@
 
 **Turma:** 31 - Sextas à noite
 
-**Prof. Thiago G. Traue**
+Prof. Thiago G. Traue
 
 **E-mail:** thiago.traue@uni9.pro.br
 
-**Clasrrom:** EM BREVE
+[CLASSROOM DA TURMA](https://classroom.google.com/c/NTkzODc0OTE2MTk5?cjc=jx3jppr)
 
 ---
 
 ## Preparação do ambiente de desenvolvimento
 
-Muita atenção: Começaremos a preparação do ambiente 03.03.
+A preparação do ambiente é simples, mas bastante trabalhosa e, portanto, requer bastante atenção aos detalhes.
 
-Não percam essa aula!!! É muito importante.
+Em nossa primeira aula fizemos a preparação do ambiente juntos e para todos que precisarem montamos um pequeno "passo a passo" do processo.
 
-A preparação do ambiente é simples, mas bastante trabalhosa.
+O documento pode ser acessado [POR ESTE LINK](https://docs.google.com/document/d/18-0mYiO2q57dvwcTixiV_pSA6EuRYmdOj-PbLsn094k/edit?usp=sharing).
+
+Lembre-se que é necessário utilizar seu e-mail institucional para acessar o documento acima.
 
 ## Critérios de avaliação
 
-Teremos uma única avaliação de múltiplca escolha próxima à integrada. Será realizada via classroom e data a definir.
+Teremos uma única avaliação (10 questões) de múltiplca escolha próxima à integrada. Será realizada via classroom (forms).
+
+DATA DA AVALIAÇÃO: 02.06 (em aula)
+
+Programe-se para não perder essa prova!
 
 ## Mini ementa da disciplina
 
-Nessa disciplina vamos aprender a desenvolver aplicações com Dart utilizando o Flutter (SDK). Desenvolveremos diverssos projetos que ficarão neste repositório.
+Nessa disciplina vamos aprender a desenvolver aplicações mobile com Dart utilizando o Flutter (SDK). Desenvolveremos diverssos projetos que ficarão neste repositório.
 
 ## Links interessantes
 
@@ -33,16 +39,15 @@ Nessa disciplina vamos aprender a desenvolver aplicações com Dart utilizando o
 - [Books](https://github.com/free-educa/books/tree/main/books) - Repositório de livros em PDF - Dica do Edson
 - [GuiaDevBrasil](https://github.com/arthurspk/guiadevbrasil#-sites-e-cursos-para-aprender-python) - Repositório com MUITOS links tops - Dica da Vanessa
 - Canais do YT:
-    - [Curso em Vídeo](https://www.youtube.com/@CursoemVideo) - Canal do Guanabara
-    - [Felipe Deschamps](https://www.youtube.com/@FilipeDeschamps)
-    - [Flutterando](https://www.youtube.com/@Flutterando)
-    - [Flutter](https://www.youtube.com/@flutterdev) - Canal oficial do Flutter
-
+  - [Curso em Vídeo](https://www.youtube.com/@CursoemVideo) - Canal do Guanabara
+  - [Felipe Deschamps](https://www.youtube.com/@FilipeDeschamps)
+  - [Flutterando](https://www.youtube.com/@Flutterando)
+  - [Flutter](https://www.youtube.com/@flutterdev) - Canal oficial do Flutter
 
 ## Bibliografia e extras
 
-- Clean Code, Martin
+- Clean Code, Martin D.
 - O Programador Pragmático: De Aprendiz a Mestre
-- [earn Flutter and Dart to Build iOS and Android Apps](https://learning.oreilly.com/videos/learn-flutter-and/9781789951998/) - Curso em vídeo disponível na O'Reilly
+- [Learn Flutter and Dart to Build iOS and Android Apps](https://learning.oreilly.com/videos/learn-flutter-and/9781789951998/) - Curso em vídeo disponível na O'Reilly
 - [Flutter and Dart Cookbook](https://learning.oreilly.com/library/view/flutter-and-dart/9781098119508/)
 - [Flutter for Beginners](https://learning.oreilly.com/library/view/flutter-for-beginners/9781800565999/)
